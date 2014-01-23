@@ -1,7 +1,7 @@
 Public-repository-1
 ===================
-$mkdir ~/Hello-World
-$cd ~Hello-World
+$mkdir ~/Public-repository-1
+$cd ~Public-repository-1
 $ git init
 $ touch README
 
